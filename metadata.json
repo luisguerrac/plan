@@ -1,0 +1,5 @@
+{
+  "name": "Generador de Planificaciones Curriculares (Ecuador)",
+  "description": "Una aplicación para generar planificaciones microcurriculares (PUD) para docentes en Ecuador, siguiendo las directrices del Ministerio de Educación, incluyendo principios DUA, competencias clave e inserciones curriculares.",
+  "requestFramePermissions": []
+}
